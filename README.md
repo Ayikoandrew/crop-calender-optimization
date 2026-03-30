@@ -83,8 +83,8 @@ uv pip install -r requirements.txt
 ### Requirements
 
 - Python 3.10+
-- PyTorch 2.0+
-- Gymnasium 1.0+
+- PyTorch
+- Gymnasium 
 - NumPy, Pandas, Scikit-learn
 - Matplotlib, Seaborn, Plotly
 
