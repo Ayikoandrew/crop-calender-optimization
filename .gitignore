@@ -89,3 +89,5 @@ data/raw/
 .cache/
 
 vae.ipynb
+main.py
+scenario_plots.pngdocs/literature_review.md
