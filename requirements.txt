@@ -9,6 +9,7 @@ statsmodels>=0.14
 torch>=2.0
 torchvision>=0.15
 gymnasium>=1.0
+pygame>=2.5  # For environment visualization
 matplotlib>=3.7
 seaborn>=0.13
 plotly>=5.0
